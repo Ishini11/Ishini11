@@ -43,7 +43,7 @@
 -->
  :dart: Focused_On Inventions :fire:
 
- ![enter image description here](https://github.com/VisithaIsuru/VisithaIsuru/blob/main/gif1.gif)
+ ![enter image description here](https://github.com/Ishini11/Ishini11/blob/main/gif1.gif)
 
 <br>
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
