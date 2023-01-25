@@ -3,15 +3,16 @@
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> 
-
-	<img src="https://img.shields.io/github/followers/Ishini11?label=Follow&style=social" alt="Github" />
-	<a href="https://www.linkedin.com/in/in/ishini-gamage/">
-	<img src="https://img.shields.io/badge/-ishini-gamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishini-gamage/" alt="https://www.linkedin.com/in/ishini-gamage/" /></a>
-	<a href="https://.github.io">
-	<img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/" alt="ashenwijesingh.github.io" /></a>
-	<img src="https://img.shields.io/github/stars/Ishini11?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
+<img src="https://komarev.com/ghpvc/?username=Ishini11"  />
+<img src="https://img.shields.io/github/followers/VisithaIsuru?label=Follow&style=social" alt="Github" />
+  <a href="https://www.linkedin.com/in/ishini-gamage/">
+<img src="https://img.shields.io/badge/-Ishini_Gamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamage-visitha-isuru/" alt="https://www.linkedin.com/in/ishini-gamage/" /></a>
+<a href="https://VisithaIsuru.github.io">
+<img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/" alt="VisithaIsuru.github.io" /></a>
+<img src="https://img.shields.io/github/stars/VisithaIsuru?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
 </p>
 </h2>
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>  
 </p>
@@ -22,10 +23,19 @@
   <code><a href="mailto:gisavishka@gmail.com" title="Send Email"><img width="25px" height="25px" src="https://github.com/Ishini11/Ishini11/blob/main/Images/gmail.png"> Gmail</a></code>
 </h5>
 <p/>
- - 🔭 I’m currently working on something cool :bulb: 
- - 🌱 learning New Techs & Recreating :construction:  
- - 👯 looking to collaborate on New Projects ☺
- - 📫 How to reach me: [@ishini_gamage](mailto:inbox.gisavishka@gmail.com;)
+
+ ## 🙋‍♂️ About Me
+
+- 🔭 I’m currently studying at **[Sri Lanka Institute of Information Technology](https://sliit.lk/)**
+
+- 👯 🌱 learning New Techs & Recreating 🚧
+
+- 👯 looking to collaborate on New Projects ☺
+
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+
+- 📫 How to reach me **gisavishka@gmail.com**
+
 <br>
 <!--
 
