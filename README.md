@@ -41,8 +41,10 @@
 
 [<img align="left" alt="ishini-gamage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
-- :dart: Focused_On Inventions :fire: 
- ![enter image description here](https://raw.githubusercontent.com/Ishini11/Ishini11/main/gif1.gif)
+ :dart: Focused_On Inventions :fire:
+
+ ![enter image description here](https://github.com/VisithaIsuru/VisithaIsuru/blob/main/gif1.gif)
+
 <br>
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
   
