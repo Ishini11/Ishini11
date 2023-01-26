@@ -3,13 +3,13 @@
 <h4 align="center">Undergraduate</h4>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Ishini11"  />
-<img src="https://img.shields.io/github/followers/Ishini11?label=Follow&style=social" alt="Github" />
+<img src="https://komarev.com/ghpvc/?username=IshiniGamage"  />
+<img src="https://img.shields.io/github/followers/IshiniGamage?label=Follow&style=social" alt="Github" />
   <a href="https://www.linkedin.com/in/ishini-gamage/">
 <img src="https://img.shields.io/badge/-Ishini_Gamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishini-gamage/" alt="https://www.linkedin.com/in/ishini-gamage/" /></a>
-<a href="https://Ishini11.github.io">
+<a href="https://IshiniGamage.github.io">
 <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/" alt="#.github.io" /></a>
-<img src="https://img.shields.io/github/stars/Ishini11?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
+<img src="https://img.shields.io/github/stars/IshiniGamage?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="">
 </p>
 </h2>
 
@@ -18,9 +18,9 @@
 </p>
 <h5 align="center">
 
-  <code><a href="https://www.linkedin.com/in/ishini-gamage/" title="LinkedIn Profile"><img width="25px" height="25px" src="https://github.com/Ishini11/Ishini11/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/ishini-gamage/" title="LinkedIn Profile"><img width="25px" height="25px" src="https://github.com/IshiniGamage/IshiniGamage/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
 
-  <code><a href="mailto:gisavishka@gmail.com" title="Send Email"><img width="25px" height="25px" src="https://github.com/Ishini11/Ishini11/blob/main/Images/gmail.png"> Gmail</a></code>
+  <code><a href="mailto:gisavishka@gmail.com" title="Send Email"><img width="25px" height="25px" src="https://github.com/IshiniGamage/IshiniGamage/blob/main/Images/gmail.png"> Gmail</a></code>
 </h5>
 <p/>
 
@@ -47,7 +47,7 @@
 -->
  :dart: Focused_On Inventions :fire:
 
- ![enter image description here](https://github.com/Ishini11/Ishini11/blob/main/gif1.gif)
+ ![enter image description here](https://github.com/IshiniGamage/IshiniGamage/blob/main/gif1.gif)
 <br>
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
   
@@ -55,7 +55,7 @@
 <br/>
 <br/>
 <p align="center">
-    <a href="https://github.com/Ishini11/github-readme-streak-stats">
+    <a href="https://github.com/IshiniGamage/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ishini Gamage's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishini11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
  </p>
@@ -63,11 +63,11 @@
 
 
 <p align="center">
-<a href="https://github.com/Ishini11/github-readme-stats"><img alt="Ishini Gamage's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishini11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/IshiniGamage/github-readme-stats"><img alt="Ishini Gamage's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IshiniGamage&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br/>
 <br/>
-<a href="https://github.com/Ishini11/github-readme-activity-graph"><img alt="Ishini Gamage's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishini11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/IshiniGamage/github-readme-activity-graph"><img alt="Ishini Gamage's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IshiniGamage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
