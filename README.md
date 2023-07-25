@@ -47,7 +47,7 @@
 -->
  :dart: Focused_On Inventions :fire:
 
- ![enter image description here](https://github.com/IshiniGamage/IshiniGamage/blob/main/gif1.gif)
+ ![enter image description here](https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 <br>
 ## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
   
