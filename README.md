@@ -58,7 +58,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/IshiniGamage/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ishini Gamage's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishini11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ishini Gamage's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IshiniGamage&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
  </p>
 
@@ -69,7 +69,7 @@
 </p>
 <br/>
 <br/>
-<a href="https://github.com/IshiniGamage/github-readme-activity-graph"><img alt="Ishini Gamage's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IshiniGamage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/IshiniGamage/github-readme-activity-graph"><img alt="Ishini Gamage's Activity Graph" src="https://activity-graph.herokuapp.com/graphusername=IshiniGamage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
