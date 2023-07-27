@@ -51,8 +51,12 @@
 )
 
 <br>
-## <img src="https://img.icons8.com/color/48/000000/programming-flag.png"/> My Github Stats
-  
+<div style="clear: both;">
+  <img src="https://img.icons8.com/color/48/000000/programming-flag.png" alt="Flag" style="float: left; margin-right: 10px;" />
+  <h2 style="margin: 0; font-weight: bold;">My GitHub Stats</h2>
+</div>
+
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
@@ -68,8 +72,17 @@
 <a href="https://github.com/IshiniGamage/github-readme-stats"><img alt="Ishini Gamage's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IshiniGamage&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br/>
-<br/>
-<a href="https://github.com/IshiniGamage/github-readme-activity-graph"><img alt="Ishini Gamage's Activity Graph" src="https://activity-graph.herokuapp.com/graphusername=IshiniGamage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+<a href="https://github.com/IshiniGamage/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshiniGamage&layout=compact&theme=radical&langs_count=8&card_width=360" />
+</a>
+</p>
+<br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IshiniGamage&theme=tokyo-night)](https://github.com/IshiniGamage/github-readme-activity-graph)
+
 
 <br/>
 <br/>
